@@ -12,7 +12,7 @@
  </div>
 
 ## | 📃 Portfolio
-<a href="https://www.notion.so/codingdoubley/camPICk-699d7b42e3f44b24b00d665381c31f7d"><img src="https://img.shields.io/badge/Notion-683D87?style=flat-square&logo=Notion&logoColor=white"/></a> 
+<!-- <a href="https://www.notion.so/codingdoubley/camPICk-699d7b42e3f44b24b00d665381c31f7d"><img src="https://img.shields.io/badge/Notion-683D87?style=flat-square&logo=Notion&logoColor=white"/></a> -->
 <br><br>
 
 ## | 🛠 Stacks 

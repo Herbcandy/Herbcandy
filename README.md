@@ -1,10 +1,8 @@
-# <div align="center"> Hello! I'm Yudong Yun </div>
+# <div  align="center"> Hello! I'm Yudong Yun </div>
 
-<div align="center">
-💻 <br>
-🤝 collaborate on TeamIXXX <br>
-<img src="https://img.shields.io/badge/dnehdyn@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/><br>
-</div>
+##### <div align="center"> 💻 currently learning front-end and back-end </div>
+##### <div align="center"> 🤝 collaborate on TeamIXXX <br> </div>
+<div align="center"> <img src="https://img.shields.io/badge/dnehdyn@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/><br> </div>
 <br><br>
 
 ![Herbcandy's github stats](https://github-readme-stats.vercel.app/api?username=Herbcandy&show_icons=true&hide=stars&bg_color=-25,f7cac9,c5b9cd,92a8d1&icon_color=fff&title_color=fff&text_color=fff )
